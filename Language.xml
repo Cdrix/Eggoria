@@ -5115,7 +5115,7 @@
     <string id="S216">Volume Musique</string>
     <string id="S217">Volume SFX</string>
     <string id="S218">Volume Ambiant</string>
-    <string id="S219">Volume IU</string>
+    <string id="S219">Volume Interface</string>
     <string id="S220">Confirmer</string>
     <string id="S221">Par Défaut</string>
     <string id="S222">Entrer</string>
@@ -5164,8 +5164,8 @@
     <string id="S265">Jours</string>
     <string id="S266">Suivant</string>
     <string id="S267">A besoin d'au moins un oeuf</string>
-    <string id="S268">Humeur Normale</string>
-    <string id="S269">Humeur Construction</string>
+    <string id="S268">Mode Normal</string>
+    <string id="S269">Mode Construction</string>
     <string id="S270">Érosion des Ténèbres, lune de sang, désastres</string>
     <string id="S271">Aucune Erosion des Ténèbres, aucune lune de sang, aucun désastre</string>
     <string id="S272">Aléatoire à nouveau</string>
@@ -5445,7 +5445,7 @@
     <string id="Loading0">Création du Monde</string>
     <string id="Loading1">Elaboration des Terres</string>
     <string id="Loading2">Les arbres commencent à grandir</string>
-    <string id="Loading3">La vie fleurit</string>
+    <string id="Loading3">La vie se réveille</string>
     <string id="Loading4">Le Mal approche</string>
 
 
@@ -5470,7 +5470,7 @@
     <string id="Key_Beacon">Afficher le prochain Coeur du Campement</string>
 
 
-    <string id="Key_Collect">Récolte</string>
+    <string id="Key_Collect">Récolter</string>
     <string id="Key_Chop">Abattre</string>
     <string id="Key_Mining">Miner</string>
     <string id="Key_Dig">Creuser</string>
@@ -5495,8 +5495,8 @@
 
     <string id="Key_BuildBridge">Construire Pont</string>
     <string id="Key_Map">Afficher Carte</string>
-    <string id="Key_MapZoomIn">Agrandir Carte +</string>
-    <string id="Key_MapZoomOut">Réduire Carte -</string>
+    <string id="Key_MapZoomIn">Agrandir Carte</string>
+    <string id="Key_MapZoomOut">Réduire Carte</string>
     <string id="Key_RotateBuilding">Tourner Bâtiment</string>
     <string id="Key_ContinueBuilding">Continuer Bâtiment</string>
     <string id="Key_ShowAllItemsName">Afficher Noms des Matériaux</string>
@@ -6507,22 +6507,22 @@
     <string id="Tutorial">Bienvenue à Eggoria, veuillez suivre les tutoriels à gauche.</string>
     <string id="TutorialEnd">C'est la fin du tutoriel, bienvenue dans le monde sans fin d'Eggoria, voulez-vous revenir au menu principal?</string>
     <string id="Tutorial0">Appuyez sur #0#,#1#,#2#,#3# pour déplacer la caméra.</string>
-    <string id="Tutorial1">Appuyez sur #4#,#5# ou utilisez le bouton central de la souris pour faire pivoter la caméra.</string>
+    <string id="Tutorial1">Appuyez sur #4#,#5# ou utilisez le bouton central de la souris pour déplacer la caméra.</string>
     <string id="Tutorial2">Appuyez sur #11#,#12#,#13#,#14# ou les boutons ci-dessus pour changer la vitesse de jeu.</string>
     <string id="Tutorial3">Appuyez sur #24# pour déplacer la caméra vers un oeuf, vérifiez leurs compétences.</string>
     <string id="Tutorial4">Cliquez sur @0@[Construire],@1@[Coeur du Campement],@2@[Coeur du Campement],et choisir un oeuf pour fournir un coeur, construire à la position de la flèche, veuillez patienter jusqu'à ce que le bâtiment soit terminé.Chque oeuf possède un coeur,sans celà l'oeuf sera cruel (réduction de la vitesse de travail).Les coeurs des oeufs se rétablissent doucement.</string>
-    <string id="Tutorial5">Utilisez la touche du clavier #15# pour déplacer la caméra entre le Coeur des Campements, si vous déplacez la caméra trop loin, utilisez #15# pour faire un saut en arrière. Le Coeur du Campement est au centre du campement, la plupart des bâtiments fonctionnent uniquement à l'intérieur de sa zone.</string>
-    <string id="Tutorial6">Cliquez sur @3@[Récolter],@4@[Tout Récolter],Sélectionnez 5 arbres et 10 foins, veuillez patienter jusqu'à ce que le travail soit terminé. Cliquez sur @19@[Métiers] pour gérer le travail des oeufs, maintenez #23# pour vérifier tous les matériaux sur le sol.</string>
-    <string id="Tutorial7">Cliquez sur @0@[Construire],@5@[Maisons],@6@[Hutte], construire 3 huttes, maintenir #22# pour continuer la construction, veuillez patienter jusqu'à ce que la construction soit terminée.Chaque oeuf a besoin d'au moins une maison pour dormir, autrement ils seront malheureux. Cliquez sur les @20@[Oeufs] pour vérifier le statut de leurs maisons.</string>
+    <string id="Tutorial5">Utilisez la touche du clavier #15# pour déplacer la caméra entre les Coeurs des Campements, si vous déplacez la caméra trop loin, utilisez #15# pour faire un saut en arrière. Le Coeur du Campement est au centre du campement, la plupart des bâtiments fonctionnent uniquement à l'intérieur de sa zone.</string>
+    <string id="Tutorial6">Cliquez sur @3@[Récolter],@4@[Tout Récolter],Sélectionnez 5 arbres et 10 foins, veuillez patienter jusqu'à ce que le travail soit terminé. Cliquez sur @19@[Métiers] pour gérer le travail des oeufs, maintenez #23# pour afficher tous les matériaux sur le sol.</string>
+    <string id="Tutorial7">Cliquez sur @0@[Construire],@5@[Maisons],@6@[Hutte], construire 3 huttes, maintenir #22# pour continuer la construction, veuillez patienter jusqu'à ce que les constructions soient terminées.Chaque oeuf a besoin d'au moins une maison pour dormir, autrement ils seront malheureux. Cliquez sur les @20@[Oeufs] pour afficher le statut de leurs maisons.</string>
     <string id="Tutorial8">Cliquez sur @0@[Construire],@8@[Bâtiments de Recherche],@7@[Table de Recherche pour débutants], construire 1 table de recherche, veuillez patienter jusqu'à ce que la construction soit terminée. Cliquez sur le bâtiment pour vérifier la progression de la construction et les matérieux requis.</string>
     <string id="Tutorial9">Cliquez sur la Table de Recherche pour Débutants, sélectionnez @9@[Fabrication Rudimentaire], veuillez patienter jusqu'à ce que la recherche soit terminée. La table de recherche est le seul moyen de déverouiller des technologies.</string>
     <string id="Tutorial10">Cliquez sur @0@[Construire],@10@[Bâtiments d'Artisanat],@9@[Table d'Artisanat pour Débutants], construire une table d'artisanat, veuillez patienter jusqu'à ce que la construction soit terminée.</string>
-    <string id="Tutorial11">Cliquez sur la Table d'Artisanat pour Débutants, sélectionnez @11@[Chapeau en Herbe] 3 fois, veuillez patienter jusqu'à ce que la fabrication soit terminée. Le chapeau en herbe fournit un peu de défense et une résistance à la châleur, aide aussi lors des jours de pluie. Si vous êtes à court de foin, utilisez @3@[Récolter] pour en obtenir plus.</string>
-    <string id="Tutorial12">Cliquez sur @16@[Equipement], glissez @11@[Chapeau en Herbe] à chaque emplacement de chapeau d'oeufs, veuillez patienter jusqu'à they gear up. Cliquez sur @21@[Gear Setting] to set eggs' gear preferance.</string>
+    <string id="Tutorial11">Cliquez sur la Table d'Artisanat pour Débutants, sélectionnez @11@[Chapeau en Herbe] 3 fois, veuillez patienter jusqu'à ce que les objets soient terminés. Le chapeau en herbe fournit un peu de défense supplémentaire et une résistance à la châleur, aide aussi lors des jours de pluie. Si vous êtes à court de foin, utilisez @3@[Récolter] pour en obtenir plus.</string>
+    <string id="Tutorial12">Cliquez sur @16@[Equipement], glissez @11@[Chapeau en Herbe] à chaque emplacement de chapeau d'oeufs, veuillez patienter jusqu'à que les oeufs s'équipent. Cliquez sur @21@[Paramètres Equipements] pour définir la préférence des équipements.</string>
     <string id="Tutorial13">Cliquez @18@[Gestion des Aliments] pour changer la préférence alimentaire des oeufs, s'ils sont affamés, utilisez @17@[Récolter] pour ramasser des baies et des carottes, les oeufs mangeront automatiquement. Les aliments ont des calories différentes, et peuvent changer le statut des oeufs.</string>
-    <string id="Tutorial14">Cliquez sur @13@[Déplacer] pour ordonner aux oeufs de suivre la flèche, vous pouvez aussi cliquez sur un oeuf pour le @13@[Déplacer]. Set move to single egg have higher priority.</string>
-    <string id="Tutorial15">Les Ténèbres sont proches, rien ne survit dans les ténèbres, nous devons bouger vers un nouveau campement, cliquez Coeur du Campement, cliquez sur @14@[Faire exploser le coeur] pour renoncer à ce campement, this will also set up tear down building orders and fold building orders.</string>
-    <string id="Tutorial16">Cliquez sur le chariot, Cliquez sur @15@[Déplacer], Réglez la position de déplacement sur la position de la flèche, veuillez patienter jusqu'à ce que le chariot atteigne la destination. Cliquez sur un autre oeuf et utilisez @13@[déplacer] pour les mettre dans la nouvelle zone de sécurité. Rappelez-vous, always explode the heart when moving.</string>
+    <string id="Tutorial14">Cliquez sur @13@[Déplacer] pour ordonner aux oeufs de suivre la flèche, vous pouvez aussi cliquez sur un oeuf pour le @13@[Déplacer]. L'action déplacer pour un seul oeuf a la priorité la plus élevée.</string>
+    <string id="Tutorial15">Les Ténèbres sont proches, rien ne survit dans les ténèbres, nous devons bouger vers un nouveau campement, cliquez sur le Coeur du Campement, cliquez sur @14@[Faire exploser le coeur] pour renoncer à ce campement, cela définira des tâches de suppression des bâtiments et des tâches de repliage des bâtiments.</string>
+    <string id="Tutorial16">Cliquez sur le chariot, Cliquez sur @15@[Déplacer], Réglez la position de déplacement sur la position de la flèche, veuillez patienter jusqu'à ce que le chariot atteigne la destination. Cliquez sur un autre oeuf et utilisez @13@[déplacer] pour les mettre dans la nouvelle zone de sécurité. Rappelez-vous, toujours exploser le coeur avant de vous déplacer.</string>
     <string id="Tutorial17">Installer un nouveau Coeur du Campement à la position de la flèche. Les oeufs ne travaillent pas si la distance est trop éloignée, utilisez @13@[déplacer] pour les diriger vers la position</string>
 
   </lang>
