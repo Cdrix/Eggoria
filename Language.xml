@@ -391,7 +391,7 @@
     <string id="S385">简单</string>
     <string id="S386">一般</string>
     <string id="S387">困难</string>
-
+    <string id="S388">法语翻译：\nCédric G</string>
 
     <string id="Help0">每个蛋蛋同时只能拥有一颗心脏。\n\n失去心脏的蛋蛋会进入无心状态。\n\n蛋蛋的心脏会随着时间流逝回复。\n\n进入无心状态的蛋蛋移动速度和工作速度会变慢。\n\n心脏也可用作繁衍蛋蛋。</string>
     <string id="Help1">营地之心规划出了营地范围。\n\n每个营地之心必须消耗一颗心脏。\n\n绝大多数建筑需要建设在营地范围内。\n\n蛋蛋和宠物会在无所事事时自动向营地之心集中。</string>
@@ -2033,7 +2033,7 @@
     <string id="S385">Easy</string>
     <string id="S386">Normal</string>
     <string id="S387">Hard</string>
-
+    <string id="S388">French translation:\nCédric G</string>
 
     <string id="Help0">Eggs have only one heart at one time.\n\nEggs who lose their hearts get [heartless] debuff,\n\nslowing their moving and working speed.\n\nTheir heart will recover in a few days.\n\nHearts can also be used to summon new eggs.</string>
     <string id="Help1">The heart of campsite sets boundary of a campsite.\n\nIt takes a heart to build a heart of campsite.\n\nMost buildings have to be built within campsites.\n\nEggs and pets will automatically gather around to a heart of campsite when they are doing nothing.</string>
@@ -3667,7 +3667,9 @@
     <string id="S385">簡單</string>
     <string id="S386">一般</string>
     <string id="S387">困難</string>
-    
+    <string id="S388">法語翻譯：\nCédric G</string>
+
+
     <string id="Help0">每個蛋蛋同時只能擁有一顆心臟。 \n\n失去心臟的蛋蛋會進入無心狀態。 \n\n蛋蛋的心臟會隨著時間流逝回复。 \n\n進入無心狀態的蛋蛋移動速度和工作速度會變慢。 \n\n心臟也可用作繁衍蛋蛋。 </string>
     <string id="Help1">營地之心規劃出了營地範圍。 \n\n每個營地之心必須消耗一顆心臟。 \n\n絕大多數建築需要建設在營地範圍內。 \n\n蛋蛋和寵物會在無所事事時自動向營地之心集中。 </string>
     <string id="Help2">戳爆營地之心是一種便捷的放棄營地手段。 \n\n戳爆營地之心會自動佈置所有的拆除, 折疊任務。 \n\n每次遷徙之前最好戳爆營地之心, 否則蛋蛋有可能分不清自己所在的營地。 </string>
@@ -4992,7 +4994,7 @@
     <string id="S95">Annuler alimenter</string>
     <string id="S96">Définir Familier Libre,laissez-le revenir au Coeur du Campement</string>
     <string id="S97">Faire suivre familier</string>
-    <string id="S98">Cette créature ne te fait pas confaince, ou est piégée. Ne peut être caressée</string>
+    <string id="S98">Cette créature ne te fait pas confiance, ou est piégée. Ne peut être caressée</string>
     <string id="S99">Choisir une cible</string>
     <string id="S100">Choisir une maison</string>
     <string id="S101">Annuler Faire suivre familier</string>
@@ -5282,6 +5284,7 @@
     <string id="S385">Facile</string>
     <string id="S386">Normal</string>
     <string id="S387">Difficile</string>
+    <string id="S388">Traduction française:\nCédric G</string>
 
     <string id="Help0">Les oeufs possèdent un seul coeur à la fois.\n\nLes oeufs qui perdent leur coeur deviennent [cruel] ,\n\nréduisant leur vitesse de déplacement et leur vitesse de travail.\n\nLeur coeur se rétablira en quelques jours.\n\nLes coeurs peuvent être aussi utilisés pour invoquer de nouveaux oeufs.</string>
     <string id="Help1">Le coeur du campement définit la limite du campement.\n\nIt takes a heart to build a heart of campsite.\n\nLa plupart des bâtiments doivent être construits à l'intérieur du campement.\n\nLes oeufs et les familiers se rassembleront automatiquement au coeur du campement lorsqu'ils ne feront rien.</string>
